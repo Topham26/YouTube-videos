@@ -1,0 +1,71 @@
+{
+  "bpm": 72.0,
+  "bar_s": 3.3333333333333335,
+  "total_bars": 68,
+  "duration_s": 226.667,
+  "sections": [
+    {
+      "section": "intro",
+      "start_bar": 0,
+      "end_bar": 8,
+      "start_s": 0.0,
+      "end_s": 26.667
+    },
+    {
+      "section": "v1",
+      "start_bar": 8,
+      "end_bar": 16,
+      "start_s": 26.667,
+      "end_s": 53.333
+    },
+    {
+      "section": "v2",
+      "start_bar": 16,
+      "end_bar": 24,
+      "start_s": 53.333,
+      "end_s": 80.0
+    },
+    {
+      "section": "chorus1",
+      "start_bar": 24,
+      "end_bar": 32,
+      "start_s": 80.0,
+      "end_s": 106.667
+    },
+    {
+      "section": "v3",
+      "start_bar": 32,
+      "end_bar": 40,
+      "start_s": 106.667,
+      "end_s": 133.333
+    },
+    {
+      "section": "chorus2",
+      "start_bar": 40,
+      "end_bar": 48,
+      "start_s": 133.333,
+      "end_s": 160.0
+    },
+    {
+      "section": "bridge",
+      "start_bar": 48,
+      "end_bar": 56,
+      "start_s": 160.0,
+      "end_s": 186.667
+    },
+    {
+      "section": "final",
+      "start_bar": 56,
+      "end_bar": 64,
+      "start_s": 186.667,
+      "end_s": 213.333
+    },
+    {
+      "section": "outro",
+      "start_bar": 64,
+      "end_bar": 68,
+      "start_s": 213.333,
+      "end_s": 226.667
+    }
+  ]
+}
